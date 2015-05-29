@@ -8,6 +8,5 @@ http://nclud.com/
 http://tympanus.net/Development/ImageTiltEffect/
 ![](https://github.com/KoltonG/Death-by-Awe/blob/master/img/tympanus.net:Development:ImageTiltEffect.png)
 
-
-
 http://danielspatzek.com/
+![](https://github.com/KoltonG/Death-by-Awe/blob/master/img/danielspatzek.com)
