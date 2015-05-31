@@ -12,4 +12,4 @@ http://danielspatzek.com/
 ![](https://github.com/KoltonG/Death-by-Awe/blob/master/img/danielspatzek.com.png)
 
 http://jviewz.com/
-![](https://github.com/KoltonG/Death-by-Awe/blob/master/img/jviewz.com.png)
+![](https://raw.githubusercontent.com/KoltonG/Death-by-Awe/master/img/jviewz.com.jpg)
